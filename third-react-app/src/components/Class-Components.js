@@ -8,5 +8,4 @@ class MyComponents extends Component {
     }
   }
   
-
 export default MyComponents
